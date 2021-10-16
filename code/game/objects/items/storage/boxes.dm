@@ -1918,3 +1918,4 @@
 	new	/obj/item/food/tatortot(src)
 	new	/obj/item/food/bubblegum/happiness(src)
 	new	/obj/item/coin/antagtoken(src)
+	
