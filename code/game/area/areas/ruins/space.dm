@@ -138,6 +138,10 @@
 /area/ruin/space/has_grav/thelizardsgas
 	name = "\improper The Lizard's Gas"
 
+//Ruin of Spinward Smoothies
+
+/area/ruin/space/has_grav/spinwardsmoothies
+	name = "Spinward Smoothies"
 
 //Ruin of Deep Storage
 
