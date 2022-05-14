@@ -1,25 +1,91 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
-"aS" = (
-/obj/machinery/power/floodlight,
-/turf/open/misc/asteroid,
-/area/space)
-"ct" = (
+"aa" = (
+/obj/machinery/light{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/thinplating/terracotta{
+	dir = 8
+	},
+/obj/machinery/hydroponics/constructable,
+/turf/open/floor/bamboo,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"bn" = (
 /obj/machinery/light{
 	dir = 1
 	},
 /turf/open/floor/grass,
-/area/space)
-"cU" = (
+/area/ruin/space/has_grav/spinwardsmoothies)
+"cc" = (
+/obj/effect/turf_decal/siding/thinplating/terracotta/corner,
+/turf/open/misc/ironsand,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"co" = (
+/mob/living/simple_animal/butterfly,
+/turf/open/floor/grass,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"dc" = (
+/obj/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/textured,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"el" = (
+/obj/structure/flora/ausbushes/brflowers,
+/obj/machinery/light,
+/turf/open/floor/grass,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"jo" = (
+/turf/open/floor/iron/dark/textured,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"mt" = (
+/obj/machinery/door/airlock/external/ruin,
+/turf/open/floor/iron/dark/textured,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"nc" = (
+/obj/structure/flora/ausbushes/brflowers,
+/mob/living/simple_animal/butterfly,
+/turf/open/floor/grass,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"ri" = (
+/obj/structure/flora/ausbushes/ywflowers,
+/turf/open/floor/grass,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"sJ" = (
 /obj/machinery/light{
 	dir = 4
 	},
 /obj/structure/flora/ausbushes/ppflowers,
 /turf/open/floor/grass,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"uX" = (
+/obj/structure/flora/rock/pile/largejungle,
+/turf/open/floor/grass,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"AW" = (
+/turf/open/floor/grass,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"BT" = (
+/obj/effect/turf_decal/caution{
+	pixel_y = -5
+	},
+/obj/effect/turf_decal/raven{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/textured,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"CA" = (
+/turf/open/space/basic,
 /area/space)
-"cY" = (
-/turf/closed/wall/mineral/wood,
-/area/space)
-"hu" = (
+"CL" = (
+/obj/structure/marker_beacon/violet,
+/turf/open/misc/asteroid,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"DR" = (
+/obj/structure/flora/ausbushes/ppflowers,
+/mob/living/simple_animal/butterfly,
+/turf/open/floor/grass,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"EK" = (
 /obj/structure/chair/sofa/corp/left{
 	dir = 4
 	},
@@ -27,46 +93,18 @@
 	dir = 9
 	},
 /turf/open/floor/wood/tile,
-/area/space)
-"hJ" = (
+/area/ruin/space/has_grav/spinwardsmoothies)
+"FN" = (
 /obj/structure/table/wood/fancy,
 /obj/effect/turf_decal/siding/thinplating/terracotta{
-	dir = 6
-	},
-/turf/open/floor/bamboo,
-/area/space)
-"ip" = (
-/obj/machinery/power/terminal{
-	dir = 4
-	},
-/turf/open/floor/wood/tile,
-/area/space)
-"jo" = (
-/obj/effect/turf_decal/siding/thinplating/terracotta/corner,
-/turf/open/misc/ironsand,
-/area/space)
-"jA" = (
-/obj/structure/flora/ausbushes/ywflowers,
-/turf/open/floor/grass,
-/area/space)
-"pb" = (
-/obj/structure/chair/sofa/corp/right{
-	dir = 4
+	dir = 1
 	},
 /obj/effect/turf_decal/siding/thinplating/terracotta{
-	dir = 8
+	dir = 1
 	},
-/turf/open/floor/wood/tile,
-/area/space)
-"pG" = (
-/obj/machinery/door/airlock/external/ruin,
-/turf/open/misc/ironsand,
-/area/space)
-"qN" = (
-/obj/machinery/vending/boozeomat/all_access,
-/turf/open/floor/wood/tile,
-/area/space)
-"ri" = (
+/turf/open/floor/bamboo,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"FW" = (
 /obj/structure/chair/sofa/corp{
 	dir = 4
 	},
@@ -74,24 +112,122 @@
 	dir = 8
 	},
 /turf/open/floor/wood/tile,
-/area/space)
-"sh" = (
-/obj/structure/flora/ausbushes/brflowers,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"Gd" = (
+/obj/structure/billboard/smoothies,
+/obj/effect/turf_decal/siding/thinplating/terracotta/corner{
+	dir = 8
+	},
+/turf/open/misc/ironsand,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"Hs" = (
+/turf/open/floor/bamboo,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"JV" = (
+/obj/effect/turf_decal/siding/thinplating/terracotta{
+	dir = 6
+	},
+/turf/open/misc/ironsand,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"JX" = (
+/obj/structure/table/wood/fancy,
+/turf/open/floor/bamboo,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"NH" = (
+/obj/machinery/vending/boozeomat/all_access,
+/turf/open/floor/wood/tile,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"Oz" = (
+/obj/structure/flora/rock/pile,
+/turf/open/misc/asteroid,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"OI" = (
 /obj/machinery/light,
 /turf/open/floor/grass,
-/area/space)
-"tM" = (
+/area/ruin/space/has_grav/spinwardsmoothies)
+"Pk" = (
+/obj/structure/table/wood/fancy,
+/obj/effect/turf_decal/siding/thinplating/terracotta{
+	dir = 6
+	},
+/obj/machinery/reagentgrinder{
+	pixel_x = -1;
+	pixel_y = 14
+	},
+/turf/open/floor/bamboo,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"Qg" = (
+/obj/structure/flora/ausbushes/ywflowers,
+/mob/living/simple_animal/butterfly,
+/turf/open/floor/grass,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"Qi" = (
+/turf/closed/mineral,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"Qx" = (
+/obj/effect/turf_decal/siding/thinplating/terracotta,
+/turf/open/misc/ironsand,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"QG" = (
+/obj/machinery/hydroponics/constructable,
+/obj/effect/turf_decal/siding/thinplating/terracotta{
+	dir = 9
+	},
+/turf/open/floor/bamboo,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"RM" = (
+/obj/structure/statue/gold/rd{
+	anchored = 1;
+	desc = "A statue of the founder of Spinward Smoothies. The number 007 is carved into its placard, for some reason.";
+	name = "Golden Memories";
+	pixel_y = 12
+	},
+/turf/open/floor/bronze/flat,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"Tr" = (
+/obj/effect/turf_decal/siding/thinplating/terracotta{
+	dir = 10
+	},
+/obj/machinery/hydroponics/constructable,
+/turf/open/floor/bamboo,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"TB" = (
+/obj/structure/chair/sofa/corp/right{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/thinplating/terracotta{
+	dir = 8
+	},
+/turf/open/floor/wood/tile,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"TE" = (
+/turf/closed/wall/mineral/wood,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"TF" = (
+/obj/machinery/chem_dispenser/drinks/fullupgrade{
+	dir = 1
+	},
+/obj/structure/table/wood,
+/obj/effect/turf_decal/siding/thinplating/terracotta{
+	dir = 1
+	},
+/turf/open/floor/bamboo,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"Um" = (
 /obj/machinery/vending/hydroseeds{
 	pixel_y = 4
 	},
 /obj/effect/turf_decal/siding/thinplating/terracotta/end,
 /turf/open/floor/bamboo,
-/area/space)
-"wM" = (
-/obj/structure/flora/ausbushes/brflowers,
-/turf/open/floor/grass,
-/area/space)
-"zl" = (
+/area/ruin/space/has_grav/spinwardsmoothies)
+"UO" = (
+/obj/structure/hedge{
+	pixel_y = 8
+	},
+/obj/effect/turf_decal/siding/thinplating/terracotta,
+/turf/open/floor/wood/tile,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"VD" = (
 /obj/machinery/chem_dispenser/drinks/beer/fullupgrade{
 	dir = 1
 	},
@@ -101,169 +237,43 @@
 	dir = 1
 	},
 /turf/open/floor/bamboo,
-/area/space)
-"Ay" = (
-/obj/structure/table/wood/fancy,
-/obj/effect/turf_decal/siding/thinplating/terracotta{
-	dir = 1
-	},
-/obj/effect/turf_decal/siding/thinplating/terracotta{
-	dir = 1
-	},
-/turf/open/floor/bamboo,
-/area/space)
-"AW" = (
-/obj/structure/flora/ausbushes/ppflowers,
-/turf/open/floor/grass,
-/area/space)
-"By" = (
-/obj/machinery/chem_dispenser/drinks/fullupgrade{
-	dir = 1
-	},
-/obj/structure/table/wood,
-/obj/effect/turf_decal/siding/thinplating/terracotta{
-	dir = 1
-	},
-/turf/open/floor/bamboo,
-/area/space)
-"CA" = (
-/turf/template_noop,
-/area/space)
-"DJ" = (
-/obj/machinery/light,
-/turf/open/floor/grass,
-/area/space)
-"Eh" = (
-/obj/structure/marker_beacon/violet,
-/obj/effect/turf_decal/siding/thinplating/terracotta{
-	dir = 6
-	},
-/turf/open/misc/ironsand,
-/area/space)
-"Eo" = (
-/turf/open/floor/wood/tile,
-/area/space)
-"JL" = (
-/obj/effect/turf_decal/siding/thinplating/terracotta,
-/turf/open/misc/ironsand,
-/area/space)
-"Kp" = (
-/obj/machinery/power/smes,
-/obj/structure/cable,
-/turf/open/floor/wood/tile,
-/area/space)
-"LA" = (
-/turf/open/misc/ironsand,
-/area/space)
-"NT" = (
+/area/ruin/space/has_grav/spinwardsmoothies)
+"VH" = (
 /obj/machinery/chem_dispenser/fullupgrade,
 /obj/effect/turf_decal/siding/thinplating/terracotta{
 	dir = 1
 	},
 /turf/open/floor/bamboo,
-/area/space)
-"OD" = (
-/turf/open/floor/bamboo,
-/area/space)
-"Pk" = (
-/obj/structure/table/wood/fancy,
-/turf/open/floor/bamboo,
-/area/space)
-"Qg" = (
-/obj/machinery/light{
-	dir = 8
-	},
-/turf/open/misc/ironsand,
-/area/space)
-"Qi" = (
-/turf/closed/mineral,
-/area/space)
-"TB" = (
-/obj/structure/cable,
-/turf/open/floor/wood/tile,
-/area/space)
-"TE" = (
-/obj/machinery/airalarm/directional/north,
-/turf/open/floor/wood/tile,
-/area/space)
-"Um" = (
-/obj/machinery/hydroponics/constructable{
-	pixel_x = 2;
-	pixel_y = 8
-	},
-/obj/effect/turf_decal/siding/thinplating/terracotta{
-	dir = 9
-	},
-/turf/open/floor/bamboo,
-/area/space)
-"UO" = (
-/turf/open/floor/grass,
-/area/space)
-"VH" = (
-/obj/structure/cable,
-/turf/closed/wall/mineral/wood,
-/area/space)
+/area/ruin/space/has_grav/spinwardsmoothies)
 "WJ" = (
-/obj/structure/billboard/smoothies,
-/obj/effect/turf_decal/siding/thinplating/terracotta/corner{
-	dir = 8
+/obj/machinery/light{
+	dir = 1
 	},
 /turf/open/misc/ironsand,
-/area/space)
-"WP" = (
-/turf/open/misc/asteroid,
-/area/space)
+/area/ruin/space/has_grav/spinwardsmoothies)
 "WW" = (
-/obj/structure/statue/sandstone/venus{
-	desc = "An ancient marble statue. The subject is depicted with a floor-length braid and is wielding a toolbox. By Jove, it's easily the most gorgeous depiction of a woman you've ever seen. The artist must truly be a master of his craft.;
-	dir = 1;
-	pixel_y = 10
-	},
-/turf/open/floor/bronze/flat,
-/area/space)
+/obj/structure/flora/ausbushes/brflowers,
+/turf/open/floor/grass,
+/area/ruin/space/has_grav/spinwardsmoothies)
 "XK" = (
-/obj/machinery/hydroponics/constructable{
-	pixel_x = 2;
-	pixel_y = 8
-	},
-/obj/machinery/light{
-	dir = 4
-	},
-/obj/effect/turf_decal/siding/thinplating/terracotta{
-	dir = 8
-	},
-/turf/open/floor/bamboo,
-/area/space)
+/turf/open/misc/ironsand,
+/area/ruin/space/has_grav/spinwardsmoothies)
 "Yh" = (
-/obj/machinery/light{
-	dir = 4
-	},
-/obj/structure/cable,
-/turf/open/floor/wood/tile,
-/area/space)
-"Yw" = (
-/obj/structure/hedge{
-	pixel_y = 8
-	},
-/turf/open/floor/wood/tile,
-/area/space)
-"YB" = (
-/obj/structure/marker_beacon/violet,
 /obj/effect/turf_decal/siding/thinplating/terracotta{
 	dir = 10
 	},
 /turf/open/misc/ironsand,
-/area/space)
+/area/ruin/space/has_grav/spinwardsmoothies)
+"Yw" = (
+/obj/structure/flora/ausbushes/ppflowers,
+/turf/open/floor/grass,
+/area/ruin/space/has_grav/spinwardsmoothies)
+"YB" = (
+/turf/open/misc/asteroid,
+/area/ruin/space/has_grav/spinwardsmoothies)
 "Zs" = (
-/obj/machinery/hydroponics/constructable{
-	pixel_x = 2;
-	pixel_y = 8
-	},
-/obj/effect/turf_decal/siding/thinplating/terracotta{
-	dir = 10
-	},
-/turf/open/floor/bamboo,
-/area/space)
+/turf/open/floor/wood/tile,
+/area/ruin/space/has_grav/spinwardsmoothies)
 
 (1,1,1) = {"
 CA
@@ -271,19 +281,14 @@ CA
 CA
 CA
 CA
-CA
-CA
-CA
-CA
-CA
-CA
-CA
-CA
-CA
-CA
-CA
-CA
-CA
+Qi
+Qi
+Qi
+Qi
+Qi
+Qi
+Qi
+Qi
 CA
 CA
 CA
@@ -296,11 +301,6 @@ CA
 CA
 CA
 CA
-CA
-CA
-CA
-CA
-CA
 Qi
 Qi
 Qi
@@ -309,11 +309,11 @@ Qi
 Qi
 Qi
 Qi
-CA
-CA
-CA
-CA
-CA
+Qi
+Qi
+Qi
+Qi
+Qi
 CA
 CA
 CA
@@ -323,9 +323,10 @@ CA
 CA
 CA
 CA
-CA
-CA
-CA
+Qi
+TE
+TE
+TE
 Qi
 Qi
 Qi
@@ -336,12 +337,6 @@ Qi
 Qi
 Qi
 Qi
-Qi
-Qi
-Qi
-CA
-CA
-CA
 CA
 CA
 CA
@@ -349,26 +344,21 @@ CA
 (4,1,1) = {"
 CA
 CA
-CA
-CA
-CA
-CA
 Qi
 Qi
+TE
+dc
+mt
+BT
+YB
+YB
+YB
+YB
+Oz
+YB
+CL
 Qi
 Qi
-Qi
-Qi
-Qi
-Qi
-Qi
-Qi
-Qi
-Qi
-Qi
-Qi
-CA
-CA
 CA
 CA
 CA
@@ -376,350 +366,285 @@ CA
 (5,1,1) = {"
 CA
 CA
-CA
-CA
-CA
 Qi
 Qi
+TE
+jo
+TE
+CL
+Oz
+YB
+YB
+YB
+YB
+YB
+YB
 Qi
-Qg
-pG
-WP
-WP
-WP
-WP
-WP
-WP
-WP
-aS
 Qi
-Qi
-CA
-CA
 CA
 CA
 CA
 "}
 (6,1,1) = {"
 CA
-CA
-CA
-CA
-CA
 Qi
 Qi
 Qi
-LA
-Qi
-WP
-WP
-WP
-WP
-WP
-WP
-WP
-WP
+TE
+jo
+TE
 Qi
 Qi
-CA
-CA
+Qi
+Qi
+Qi
+Qi
+YB
+YB
+YB
+Qi
 CA
 CA
 CA
 "}
 (7,1,1) = {"
 CA
-CA
-CA
-CA
+Qi
+Qi
+TE
+TE
+mt
+TE
+TE
+TE
+TE
 Qi
 Qi
 Qi
 Qi
-LA
-Qi
-Qi
-Qi
-Qi
-Qi
-Qi
-Qi
-WP
-WP
-WP
-Qi
-CA
-CA
-CA
+YB
+YB
+Oz
+YB
 CA
 CA
 "}
 (8,1,1) = {"
-CA
-CA
-CA
-CA
 Qi
 Qi
-cY
-cY
-pG
-cY
-cY
-cY
-cY
+TE
+TE
+bn
+AW
+WW
+DR
+OI
+TE
+TE
+TE
+TE
 Qi
 Qi
-Qi
-Qi
-WP
-WP
-WP
-WP
-CA
-CA
-CA
+YB
+YB
+YB
+CL
 CA
 "}
 (9,1,1) = {"
-CA
-CA
-CA
 Qi
 Qi
-cY
-cY
-ct
+TE
 UO
-wM
+Yw
 AW
-DJ
-cY
-cY
-cY
-cY
+AW
+AW
+ri
+AW
+WW
+ri
+TE
 Qi
 Qi
-WP
-WP
-WP
-WP
-CA
-CA
+Qi
+Yh
+YB
+YB
 CA
 "}
 (10,1,1) = {"
-CA
-CA
-CA
 Qi
 Qi
-cY
-Yw
+TE
+UO
+co
 AW
-UO
-jA
-UO
-jA
-UO
-wM
-jA
-cY
+uX
+AW
+AW
+AW
+RM
+WW
+TE
+TE
 Qi
-Qi
-Qi
+WJ
+Gd
+Yh
 YB
-WP
-WP
-CA
-CA
-CA
+YB
 "}
 (11,1,1) = {"
-CA
-CA
-CA
 Qi
 Qi
-cY
-Yw
-UO
-jA
-AW
-wM
-UO
+TE
 UO
 WW
-wM
-cY
-cY
+AW
+AW
+AW
+Yw
+AW
+Yw
+Yw
+AW
+TE
 Qi
-LA
-WJ
+XK
+XK
+Qx
 YB
-WP
-WP
-CA
-CA
+CL
 "}
 (12,1,1) = {"
-CA
-CA
-CA
 Qi
 Qi
-cY
+TE
+UO
+AW
+ri
+AW
 Yw
-wM
-UO
-UO
-UO
 AW
-UO
+Qg
 AW
+WW
 AW
-UO
-cY
+TE
 Qi
-LA
-LA
-JL
-WP
-WP
-CA
-CA
+WJ
+cc
+JV
+YB
+YB
 "}
 (13,1,1) = {"
-CA
-CA
-CA
 Qi
 Qi
-cY
+TE
+UO
 Yw
-UO
-jA
-UO
 AW
-UO
-jA
-UO
-wM
-UO
-cY
+WW
+AW
+ri
+WW
+ri
+AW
+el
+TE
 Qi
-LA
-jo
-Eh
-WP
-WP
-CA
+Qi
+JV
+YB
+YB
 CA
 "}
 (14,1,1) = {"
-CA
-CA
-CA
 Qi
 Qi
-cY
-Yw
+TE
+UO
+WW
+nc
 AW
-UO
-wM
-UO
-jA
-wM
-jA
-UO
-sh
-cY
+EK
+FW
+FW
+FW
+FW
+TB
+TE
 Qi
 Qi
-Eh
-WP
-WP
-CA
-CA
+YB
+YB
+CL
 CA
 "}
 (15,1,1) = {"
-CA
-CA
-CA
 Qi
 Qi
-cY
-Yw
-wM
-wM
+TE
 UO
-hu
+Yw
 ri
-ri
-ri
-ri
-pb
-cY
+AW
+FN
+JX
+JX
+JX
+JX
+JX
+TE
+TE
 Qi
-Qi
-WP
-WP
-WP
-CA
+Oz
+YB
 CA
 CA
 "}
 (16,1,1) = {"
-CA
-CA
-CA
 Qi
 Qi
-cY
-Yw
+TE
+TE
+TE
 AW
-jA
-UO
-Ay
+Yw
 Pk
-Pk
-Pk
-Pk
-Pk
-cY
-cY
+Zs
+Zs
+Zs
+Zs
+Zs
+TF
+TE
 Qi
-WP
-WP
-CA
+CL
 CA
 CA
 CA
 "}
 (17,1,1) = {"
 CA
-CA
-CA
 Qi
 Qi
-cY
-cY
-cY
-UO
-AW
-hJ
-Eo
-Eo
-Eo
-Eo
-Eo
-By
-cY
 Qi
-WP
-CA
-CA
+TE
+sJ
+WW
+Hs
+Zs
+Zs
+Zs
+Zs
+Zs
+VD
+TE
+Qi
+Qi
 CA
 CA
 CA
@@ -727,26 +652,21 @@ CA
 (18,1,1) = {"
 CA
 CA
-CA
-CA
 Qi
 Qi
+TE
+TE
+TE
+NH
+Zs
+QG
+aa
+Tr
+Zs
+VH
+TE
 Qi
-cY
-cU
-wM
-OD
-Eo
-Eo
-Eo
-Eo
-Eo
-zl
-cY
 Qi
-Qi
-CA
-CA
 CA
 CA
 CA
@@ -755,25 +675,20 @@ CA
 CA
 CA
 CA
-CA
-CA
 Qi
 Qi
-cY
-cY
-cY
-qN
-Eo
+Qi
+TE
 Um
-XK
 Zs
-Eo
-NT
-cY
+TE
+TE
+TE
+TE
+TE
+TE
 Qi
 Qi
-CA
-CA
 CA
 CA
 CA
@@ -783,24 +698,19 @@ CA
 CA
 CA
 CA
-CA
-CA
+Qi
+Qi
+TE
+TE
+TE
+TE
 Qi
 Qi
 Qi
-cY
-tM
-Eo
-cY
-cY
-cY
-cY
-cY
-cY
 Qi
 Qi
-CA
-CA
+Qi
+Qi
 CA
 CA
 CA
@@ -811,22 +721,17 @@ CA
 CA
 CA
 CA
-CA
-CA
-Qi
-Qi
-cY
-cY
-TE
-cY
-Eo
-Eo
-ip
-cY
 Qi
 Qi
 Qi
-CA
+Qi
+Qi
+Qi
+Qi
+Qi
+Qi
+Qi
+Qi
 CA
 CA
 CA
@@ -838,20 +743,15 @@ CA
 CA
 CA
 CA
+Qi
+Qi
+Qi
+Qi
+Qi
+Qi
 CA
 CA
 CA
-Qi
-Qi
-cY
-TB
-VH
-Yh
-TB
-Kp
-cY
-Qi
-Qi
 CA
 CA
 CA
@@ -860,65 +760,6 @@ CA
 CA
 "}
 (23,1,1) = {"
-CA
-CA
-CA
-CA
-CA
-CA
-CA
-CA
-Qi
-Qi
-cY
-cY
-cY
-cY
-cY
-cY
-cY
-Qi
-Qi
-CA
-CA
-CA
-CA
-CA
-CA
-"}
-(24,1,1) = {"
-CA
-CA
-CA
-CA
-CA
-CA
-CA
-CA
-CA
-Qi
-Qi
-Qi
-Qi
-Qi
-Qi
-Qi
-Qi
-Qi
-CA
-CA
-CA
-CA
-CA
-CA
-CA
-"}
-(25,1,1) = {"
-CA
-CA
-CA
-CA
-CA
 CA
 CA
 CA
